@@ -28,7 +28,14 @@ The column fields holds two types of continious variables.</br>
 4.The parameter is linked to the row field so the user can control the difference in years that is shown.</br>
 
 # Small Multiple Lines Chart
+Creating the layout
 
+
+Adding Labels inside each chart
+
+
+
+Displaying additonal small labels
 
 # Bar Chart with KPI indicator
 This includes an Arrow on the bar chart indicating by color whether a performance target was met or not.</br>
