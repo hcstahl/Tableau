@@ -3,7 +3,6 @@ https://public.tableau.com/app/profile/hcstahl
 # Table of Contents
 [Gantt Chart](#Gantt-Chart)</br>
 [Population Pyramid](#Population-Pyramid)</br>
-[Small Multiple Lines Chart](#Small-Multiple-Lines-Chart)</br>
 [Bar Chart with KPI indicator](#Bar-Chart-with-KPI-indicator)</br>
 [Dynamic Chart](#Dynamic-Chart)</br>
 [References](#References)</br>
@@ -14,10 +13,10 @@ For this chart I measured the length of time between two dates using a Gantt Cha
 1. The time measurment is in the column field</br>
 2. The category that is being measured is in the row field.</br>
 3. The size card is a calculated field that measures the difference between the start variable and end variable.</br>
-(This makes the length of the bars match the time difference)</br>
-4.The field uses the DATEDIFF function.</br>
-5.This field is also in the text card to display the length of time to the user.</br>
-6.There is a calculated field for a date difference of 0 to have a different color for items that have no time difference.</br>
+4. This makes the length of the bars match the time difference.</br>
+5.The field uses the DATEDIFF function.</br>
+6.This field is also in the text card to display the length of time to the user.</br>
+7.There is a calculated field for a date difference of 0 to have a different color for items that have no time difference.</br>
 
 # Population Pyramid
 The column fields holds two types of continious variables.</br>
@@ -26,16 +25,6 @@ The column fields holds two types of continious variables.</br>
 2.The type of chart is a bar, but the second column field is reversed to create the population pyramid look.</br>
 3.To do this, right click the axis area and undernath the Scale header click reverse.</br>
 4.The parameter is linked to the row field so the user can control the difference in years that is shown.</br>
-
-# Small Multiple Lines Chart
-Creating the layout
-
-
-Adding Labels inside each chart
-
-
-
-Displaying additonal small labels
 
 # Bar Chart with KPI indicator
 This includes an Arrow on the bar chart indicating by color whether a performance target was met or not.</br>
