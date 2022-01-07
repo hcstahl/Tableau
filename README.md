@@ -35,7 +35,7 @@ In this example the Arrow turns Red, and the amount dissapers if it fails to mee
 
 
 # References 
-[Population Pyramid][https://playfairdata.com/how-to-make-a-diverging-bar-chart-in-tableau/]
+[Population Pyramid](https://playfairdata.com/how-to-make-a-diverging-bar-chart-in-tableau/)
 [Population Pyramid][]
 [Population Pyramid][# References]
 [Population Pyramid][# References]
