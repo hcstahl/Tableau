@@ -6,6 +6,7 @@ https://public.tableau.com/app/profile/hcstahl
 [Small Multiple Lines Chart](#Small-Multiple-Lines-Chart)</br>
 [Bar Chart with KPI indicator](#Bar-Chart-with-KPI-indicator)</br>
 [Dynamic Chart](#Dynamic-Chart)</br>
+[References][# References]
 
 
 # Gantt Chart
@@ -26,4 +27,16 @@ The parameter is linked to the row field so the user can control the difference 
 This includes an Arrow on the bar chart indicating by color whether a performance target was met or not.</br>
 In this example the Arrow turns Red, and the amount dissapers if it fails to meet the target.</br>
 
+1. Create a calculated field (Axis) that includes MIN (0.0)</br>
+2. Put the Axis field as a second column field.</br>
+3. Make the Axis field a shape type.</br>
+4. 
 # Dynamic Chart
+
+
+# References 
+[Population Pyramid][https://playfairdata.com/how-to-make-a-diverging-bar-chart-in-tableau/]
+[Population Pyramid][]
+[Population Pyramid][# References]
+[Population Pyramid][# References]
+[Population Pyramid][# References]
