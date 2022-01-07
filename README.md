@@ -6,7 +6,7 @@ https://public.tableau.com/app/profile/hcstahl
 [Small Multiple Lines Chart](#Small-Multiple-Lines-Chart)</br>
 [Bar Chart with KPI indicator](#Bar-Chart-with-KPI-indicator)</br>
 [Dynamic Chart](#Dynamic-Chart)</br>
-[References][#References]
+[References](#References)
 
 
 # Gantt Chart
