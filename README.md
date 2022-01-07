@@ -35,8 +35,8 @@ In this example the Arrow turns Red, and the amount dissapers if it fails to mee
 
 
 # References 
-[Gantt Chart]()
-[Population Pyramid](https://playfairdata.com/how-to-make-a-diverging-bar-chart-in-tableau/)
-[Small Multiple Lines Chart](https://www.youtube.com/watch?v=kWZoa3UfbVs)
-[Bar Chart with KPI indicator](https://www.youtube.com/watch?v=e8yQGdKG6dI)
-[Dynamic Chart](https://www.youtube.com/watch?v=yEApDIou2hg)
+[Gantt Chart]()</br>
+[Population Pyramid](https://playfairdata.com/how-to-make-a-diverging-bar-chart-in-tableau/)</br>
+[Small Multiple Lines Chart](https://www.youtube.com/watch?v=kWZoa3UfbVs)</br>
+[Bar Chart with KPI indicator](https://www.youtube.com/watch?v=e8yQGdKG6dI)</br>
+[Dynamic Chart](https://www.youtube.com/watch?v=yEApDIou2hg)</br>
